@@ -52,6 +52,26 @@ Banner görseli:
 
 ---
 
+## 📸 Ekran Görüntüleri
+
+### Ana Sayfa
+
+![Ana Sayfa](screenshots/home.png)
+
+### Ürün Detay
+
+![Ürün Detay](screenshots/product-detail.png)
+
+### Sepet
+
+![Sepet](screenshots/cart.png)
+
+### Boş Sepet
+
+![Boş Sepet](screenshots/empty-cart.png)
+
+---
+
 ## 📂 Proje Klasör Yapısı
 
 ```text

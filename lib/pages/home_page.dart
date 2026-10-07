@@ -149,7 +149,7 @@ class _HomePageState extends State<HomePage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Find your perfect device.',
+                  'Created by: Melikşah Camgöz',
                   style: TextStyle(fontSize: 15, color: Colors.grey),
                 ),
 
