@@ -372,13 +372,6 @@ Bartın University
 
 ---
 
-## 📌 Proje Durumu
-
-**Tamamlandı ✅**
-
-Flutter Mini Catalog projesi geliştirilmiş, Android Emulator üzerinde test edilmiş ve GitHub üzerinde public repository olarak paylaşılmıştır.
-
----
 
 ## 🔗 GitHub
 
